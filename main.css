@@ -34,7 +34,7 @@ header h1 {
 
 form {
     display: flex;
-    max-width: 640px;
+    max-width: 750px;
     width: 100%;
     justify-content: space-between;
     margin-bottom: 56px;
@@ -75,24 +75,4 @@ table td {
     text-align: center;
     font-size: 18px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-}
-
-table td img {
-    height: 30px;
-} 
-
-.resultado {
-    padding: 8px;
-    font-weight: bold;
-    color: white;
-    background-color: black;
-    border-radius: 3px;
-}
-
-.aprovado {
-    background-color: #009432;
-}
-
-.reprovado {
-    background-color: red;
 }
